@@ -1,3 +1,12 @@
+<div align="center">
+
+<img src="images/mypage-logo.png" width="200"/>
+
+# MyPage – The Daily Source of Wisdom
+
+A full-stack web application that combines personalized news, weather updates, and article bookmarking in one dashboard.
+
+</div>
 <img src="preview/mag-logo.png" alt="Midtown Art Gallery logo" width="100%" />
 <img src="preview/mag-lobby.png" alt="Image of Midtown Art Gallery lobby" width="100%" />
 
