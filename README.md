@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="250" height="1361" alt="dashboard" src="https://github.com/user-attachments/assets/5d62829a-279c-44f3-9159-23b90cc79138" />
+<img width="250" height="1361" alt="dashboard" src="/news_spring.png" />
 
 <img src="images/mypage-logo.png" width="200"/>
 
