@@ -1,4 +1,5 @@
 <div align="center">
+<img width="2560" height="1373" alt="login_page" src="https://github.com/user-attachments/assets/4fd912c0-d073-4647-94ea-ee1e1817badb" />
 
 <img src="images/mypage-logo.png" width="200"/>
 
